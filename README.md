@@ -1,11 +1,12 @@
 ### Hi there 👋
+- Hello, I'm Ankur, a Software Engineer with experience in Java, Scala, and Python languages. Currently, I work at Joveo, where I contribute to the development of innovative solutions. I have been involved there in designing robust systems leveraging AWS and Snowflake technologies. [ Work Github account :- @ankur-singh-joveo ]
 
 <!--
 **ankur-singh1601/ankur-singh1601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working in @joveo as Software Engineer. 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
